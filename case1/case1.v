@@ -1,5 +1,5 @@
 
-module complex_comb_logic (a, b, c, d, x, y, z);
+module case1 (a, b, c, d, x, y, z);
 
 
 input a;

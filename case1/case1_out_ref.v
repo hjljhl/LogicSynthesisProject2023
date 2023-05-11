@@ -1,6 +1,5 @@
-// Benchmark "complex_comb_logic" written by ABC on Thu May 11 23:59:10 2023
 
-module complex_comb_logic ( 
+module case1 ( 
     a, b, c, d,
     x, y, z  );
   input  a, b, c, d;
