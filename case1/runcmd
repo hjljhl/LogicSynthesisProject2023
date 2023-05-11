@@ -1,7 +1,9 @@
 read_library cadence.genlib
 read_verilog case1.v
+
 strash
-balance
-resyn2
+
+map
+print_stats
 write_verilog case1_out.v
 
