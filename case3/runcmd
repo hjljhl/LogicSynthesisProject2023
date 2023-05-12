@@ -1,0 +1,9 @@
+read_library cadence.genlib
+read_verilog case3.v
+
+strash
+
+map
+print_stats
+write_verilog case3_out.v
+
